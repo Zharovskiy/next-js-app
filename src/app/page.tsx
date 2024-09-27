@@ -1,4 +1,4 @@
-import StatusLabel, { Status } from '@/app/components/status-label.tsx';
+import StatusLabel, { Status } from '@/app/components/status-label';
 
 export default function Home() {
   return (
